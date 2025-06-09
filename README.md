@@ -12,7 +12,7 @@ Below you'll find a list of my projects. Each entry includes a project number, t
 <!-- Template Start: Copy and fill out for each new project -->
 
 ### 📌 Project Number: 001  
-**Title:** *[Your Project Title Here]*  
+**Title:** *[Airbnb Property Analysis](Paste link)*  
 **Description:**  
 *A short summary of what the project does, the technologies used, and any interesting features. You can also include the purpose of the project or the problem it solves.*
 
