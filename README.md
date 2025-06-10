@@ -24,6 +24,7 @@ Showing skills on creating a full project in Tableau.
 **Description:**  
 Skills shown on Power BI and the creativity in presenting.
 
+---
 
 ### 📌 Project Number: 003  
 **Title:** *[]()  
