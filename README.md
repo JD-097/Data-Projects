@@ -12,7 +12,8 @@ Below you'll find a list of my projects. Each entry includes a project number, t
 <!-- Template Start: Copy and fill out for each new project -->
 
 ### 📌 Project Number: 001  
-**Title:** *[Airbnb Property Analysis](Paste link inside these parenthesis)*  
+**Title:** *[Storytelling in Tablu]([https://public.tableau.com/views/Project5\_17464976800950/Story1?:language=en-US\&publish=yes&:sid=&:redirect=auth&:display\_count=n&:origin=viz\_share\_link](https://public.tableau.com/views/Project5_17464976800950/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+)  
 **Description:**  
 *A short summary of what the project does, the technologies used, and any interesting features. You can also include the purpose of the project or the problem it solves.*
 
@@ -34,8 +35,8 @@ Stay tuned as I continue to add more projects and updates. If you'd like to conn
 ---
 
 🔗 **Contact / Links**  
-- GitHub: [your-username](https://github.com/your-username)  
+- GitHub: JD-097  
 - Portfolio: [your-portfolio-link]  
-- LinkedIn: [your-linkedin-link]  
+- LinkedIn: [www.linkedin.com/in/john-damin-a26987359]  
 
 
