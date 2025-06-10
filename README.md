@@ -12,7 +12,7 @@ Below you'll find a list of my projects. Each entry includes a project number, t
 <!-- Template Start: Copy and fill out for each new project -->
 
 ### 📌 Project Number: 001  
-**Title:** *[Storytelling in Tableau](https://public.tableau.com/views/Project5\_17464976800950/Story1?:language=en-US\&publish=yes&:sid=&:redirect=auth&:display\_count=n&:origin=viz\_share\_link](https://public.tableau.com/views/Project5_17464976800950/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+**Title:** *[Storytelling in Tableau](https://public.tableau.com/views/Project5\_17464976800950/Story1?:language=en-US\&publish=yes&:sid=&:redirect=auth&:display\_count=n&:origin=viz\_share\_link]
   
 **Description:**  
 Showing skills on creating a full project in Tableau.
@@ -22,7 +22,7 @@ Showing skills on creating a full project in Tableau.
 ### 📌 Project Number: 002  
 **Title:** *[Power BI Graphing with presentaion](https://docs.google.com/presentation/d/1J8YoDbjIYt-scI1iS-lG18W7iC7tz0FRMDLPtmcgiPE/edit?usp=drive_link)  
 **Description:**  
-SKills shown on Power BI and the creativity in presenting. 
+Skills shown on Power BI and the creativity in presenting. 
 
 ---
 
