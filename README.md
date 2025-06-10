@@ -12,7 +12,7 @@ Below you'll find a list of my projects. Each entry includes a project number, t
 <!-- Template Start: Copy and fill out for each new project -->
 
 ### 📌 Project Number: 001  
-**Title:** *[Storytelling in Tableau](https://public.tableau.com/views/Project5\_17464976800950/Story1?:language=en-US\&publish=yes&:sid=&:redirect=auth&:display\_count=n&:origin=viz\_share\_link]
+**Title:** *[Storytelling in Tableau](https://public.tableau.com/views/Project5\_17464976800950/Story1?:language=en-US\&publish=yes&:sid=&:redirect=auth&:display\_count=n&:origin=viz\_share\_link])
   
 **Description:**  
 Showing skills on creating a full project in Tableau.
